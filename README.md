@@ -18,7 +18,7 @@ Where are the biggest opportunities to improve retention and engagement?
 
 **Data**
 
-Source: IBM HR Analytics Employee Attrition & Performance dataset (Kaggle)
+Source: IBM HR Analytics Employee Attrition & Performance dataset ([Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data))
 Fields: gender, age, education and education field, department, job role, monthly income, years at company, years since last promotion, years in current role, business travel, overtime, attrition, job satisfaction, environment satisfaction, job involvement, work-life balance, relationship satisfaction
 
 
